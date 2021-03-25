@@ -1,2 +1,0 @@
-(this["webpackJsonpibsa-ejeta-react"]=this["webpackJsonpibsa-ejeta-react"]||[]).push([[0],{13:function(e,t,n){"use strict";n.r(t);var r=n(0),a=n.n(r),c=n(3),i=n.n(c),s=n(4),o=n(5),u=n(7),b=n(6),j=n(1),h=function(e){Object(u.a)(n,e);var t=Object(b.a)(n);function n(){return Object(s.a)(this,n),t.apply(this,arguments)}return Object(o.a)(n,[{key:"render",value:function(){return Object(j.jsx)("div",{children:"hi there"})}}]),n}(a.a.Component);i.a.render(Object(j.jsx)(h,{}),document.querySelector("#root"))}},[[13,1,2]]]);
-//# sourceMappingURL=main.30411f67.chunk.js.map
