@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/ibsa-ejeta-react/static/js/main.30411f67.chunk.js",
+    "main.js.map": "/ibsa-ejeta-react/static/js/main.30411f67.chunk.js.map",
+    "runtime-main.js": "/ibsa-ejeta-react/static/js/runtime-main.a6959b05.js",
+    "runtime-main.js.map": "/ibsa-ejeta-react/static/js/runtime-main.a6959b05.js.map",
+    "static/js/2.2e9ed55b.chunk.js": "/ibsa-ejeta-react/static/js/2.2e9ed55b.chunk.js",
+    "static/js/2.2e9ed55b.chunk.js.map": "/ibsa-ejeta-react/static/js/2.2e9ed55b.chunk.js.map",
+    "index.html": "/ibsa-ejeta-react/index.html",
+    "static/js/2.2e9ed55b.chunk.js.LICENSE.txt": "/ibsa-ejeta-react/static/js/2.2e9ed55b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6959b05.js",
+    "static/js/2.2e9ed55b.chunk.js",
+    "static/js/main.30411f67.chunk.js"
+  ]
+}
