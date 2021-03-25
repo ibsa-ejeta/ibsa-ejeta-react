@@ -1,7 +1,7 @@
 import React from 'react';
 import SeasonDisplay from './SeasonDisplay';
 import Spinner from './Spinner';
-import Clock from './Clock';
+// import Clock from './Clock';
 
 class App extends React.Component {
   state = { lat: null, errorMessage: '' };
